@@ -1,5 +1,6 @@
 <h1> Oii, eu sou a Clarisse Rodrigues 👋</h1>
-<img align="right" alt="cla-pic" height="150" style="border-radius:50px;" src="https://picrew.me/share?cd=e0OQrayZq1">
+<img align="right" alt="cla-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/98330252/188519036-bd7bdcd8-ab9e-4bc3-be6f-bc6b734785a0.png">
+
 
 <div > 
    <a href="https://www.linkedin.com/in/clarissee-rodriguess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
