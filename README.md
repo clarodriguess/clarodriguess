@@ -4,7 +4,7 @@
 
 <div style="display: inline_block" align="center" ><br>
 <p>Desenvolvedora Front-end</p>
-<img  alt="cla-pic" height="250" style="border-radius:50px;" src="https://user-images.githubusercontent.com/98330252/188519036-bd7bdcd8-ab9e-4bc3-be6f-bc6b734785a0.png"><br>
+
   <img align="center" alt="cla-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="cla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="cla-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
