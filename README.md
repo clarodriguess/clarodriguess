@@ -1,4 +1,4 @@
-<h1 align="center"> Oii, eu sou a Clarisse Rodrigues<br><br> <a href="https://www.linkedin.com/in/clarissee-rodriguess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></h1>
+<h1 align="center">Olá!<br><br> <a href="https://www.linkedin.com/in/clarissee-rodriguess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></h1>
 
 
 
