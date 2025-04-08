@@ -1,8 +1,9 @@
-<h1 align="left">Hi there 👩🏻‍💻👋</h1>
+<h1 align="left">Hello world!👋🌍</h1>
 
 ###
 
-<p align="left">My name is Clarisse and I'm a Full Stack Developer from São Paulo, Brazil</p>
+
+<p align="left"> 👩🏻‍💻<br> Eu sou Clarisse Rodrigues<br> Desenvolvedora Full Stack <br>Cursando Análise e Desenvolvimento de Sistemas </p>
 
 
 
