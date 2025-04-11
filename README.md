@@ -52,3 +52,15 @@
 
 ###
 
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=clarodriguess.clarodriguess&left_color=mediumorchid&right_color=black"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/clarodriguess/count.svg?"  />
+</div>
+
+###
