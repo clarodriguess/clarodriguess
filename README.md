@@ -23,7 +23,6 @@
 ```typescript
 const clarisse: Developer = {
   role:       "Full Stack Developer",
-  focus:      ["Backend", "Frontend", "APIs REST", "Integração de Sistemas"],
   background: ["Design", "Sistemas", "UX"],
   currently:  ["Bootcamp FullStack JS @ Generation", "ADS",
                "Backend Volunteer @ ProGirls"],
