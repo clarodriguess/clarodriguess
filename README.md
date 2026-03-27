@@ -1,12 +1,3 @@
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=clarodriguess.clarodriguess&left_color=darkorchid&right_color=black"  />
-</div>
-
-
-<div align="center">
-<img width="100%" src="https://github.com/clarodriguess/clarodriguess/blob/main/computerWorld.png" />
-</div>
-
 <!--
   ██████╗ ██████╗ ███╗   ███╗██████╗ ██╗   ██╗████████╗███████╗██████╗
   ██╔════╝██╔═══██╗████╗ ████║██╔══██╗██║   ██║╚══██╔══╝██╔════╝██╔══██╗
@@ -17,6 +8,19 @@
                                  W O R L D
   — inspired by Kraftwerk, 1981
 -->
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=clarodriguess.clarodriguess&left_color=darkorchid&right_color=black"  />
+</div>
+
+
+<div align="center">
+<img width="100%" src="https://github.com/clarodriguess/clarodriguess/blob/main/computer-world.png" />
+</div>
+
+<div align="center">
+<p><em>A estética desta página é uma homenagem ao <strong>Computer World</strong> <br>- o álbum que em 1981 previu exatamente o mundo em que hoje escrevo código</em></p>
+</div>
 
 ## `> whoami`
 
@@ -153,10 +157,10 @@ const clarisse: Developer = {
 <br><br>
 <div align="center">
   <a href="https://www.linkedin.com/in/clarissee-rodriguess/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
   </a>
   <a href="https://www.behance.net/clarissedesigner" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=0d0d0d&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="behance logo"  />
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=0d0d0d&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="behance logo"/>
   </a>
 </div>
 
@@ -164,3 +168,4 @@ const clarisse: Developer = {
 <i>"I call this number. For a data date"</i> 
 </p>
 <br><br>
+
