@@ -25,11 +25,12 @@
 ## `> whoami`
 
 ```typescript
-const clarisse: Developer = {
+const clarisse: Developer {
   role:       "Full Stack Developer",
   background: ["Design", "Sistemas", "UX"],
-  currently:  ["Bootcamp FullStack JS @ Generation", "ADS",
-               "Backend Volunteer @ ProGirls"],
+  currently:  ["FullStack JS @ Bootcamp Generation",
+               "Backend Volunteer @ ProGirls",
+               "Análise e Desenvolvilmento de Sistemas"],
   superpower: "Transitar entre lógica de sistemas e experiência do usuário",
 };
 ```
