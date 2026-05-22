@@ -65,7 +65,7 @@ const clarisse: Developer {
 | Curso | Instituição | Status |
 |---|---|---|
 | Análise e Desenvolvimento de Sistemas | Faculdade Descomplica | Cursando (2025–2027) |
-| Bootcamp FullStack JavaScript | Generation Brasil | Cursando (2026) |
+| Bootcamp FullStack JavaScript (420h) | Generation Brasil | Concluído (2026) |
 | FullStack Developer | Alura | Concluído (2024) |
 | C Piscine – Software Engineering | 42 SP | Concluído (2024) |
 | Junior Fullstack Developer | StartSe Tech Academy | Concluído (2023) |
