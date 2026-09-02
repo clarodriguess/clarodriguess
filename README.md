@@ -28,8 +28,8 @@
 const clarisse: Developer {
   role:       "Full Stack Developer",
   background: ["Design", "Sistemas", "UX"],
-  currently:  ["FullStack JS @ Bootcamp Generation",
-               "Backend Volunteer @ ProGirls",
+  currently:  ["Backend Volunteer @ ProGirls",
+               "Cibersegurança @ KODIE academy",
                "Cloud @ Escola da Nuvem",
                "Análise e Desenvolvilmento de Sistemas"],
   superpower: "Transitar entre lógica de sistemas e experiência do usuário",
@@ -66,6 +66,7 @@ const clarisse: Developer {
 | Curso | Instituição | Status |
 |---|---|---|
 | Análise e Desenvolvimento de Sistemas | Faculdade Descomplica | Cursando (2025–2027) |
+| Cibersegurança | KODIE Academy | Cursando (2026) |
 | Computação em Nuvem | Escola da Nuvem | Cursando (2026) |
 | Bootcamp FullStack JavaScript (420h) | Generation Brasil | Concluído (2026) |
 | FullStack Developer | Alura | Concluído (2024) |
