@@ -67,7 +67,6 @@ const clarisse: Developer {
 |---|---|---|
 | Análise e Desenvolvimento de Sistemas | Faculdade Descomplica | Cursando (2025–2027) |
 | Cibersegurança | KODIE Academy | Cursando (2026) |
-| Computação em Nuvem | Escola da Nuvem | Cursando (2026) |
 | Bootcamp FullStack JavaScript (420h) | Generation Brasil | Concluído (2026) |
 | FullStack Developer | Alura | Concluído (2024) |
 | C Piscine – Software Engineering | 42 SP | Concluído (2024) |
